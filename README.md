@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **chyrajendra@gmail.com**
+- 📫 How to reach me **chyrajendra32@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
