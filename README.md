@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajendrachy" alt="rajendrachy" /></a> </p>
 
-- 🔭 I’m currently worked on **Integrated project - I**
+- Hi, I’ve already worked on an integrated project **Integrated project - I**
 
 - 🌱 I’m currently learning **Web-development, Programming**
 
