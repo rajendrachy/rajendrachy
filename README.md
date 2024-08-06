@@ -13,10 +13,10 @@
 
 <p align="center">
   <a href="https://github.com/rajendrachy">
-    <img src="https://img.shields.io/github/followers/rajendrachy?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/rajendrachy?label=Follow&style=for-the-badge&color=green&logo=github" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/rajendrachy">
-    <img src="https://img.shields.io/github/stars/rajendrachy?label=Stars" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/rajendrachy?label=Stars&style=for-the-badge&color=green" alt="GitHub Stars" />
   </a>
 </p>
 
