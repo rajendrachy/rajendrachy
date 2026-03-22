@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajendra Chaudhary</h1>
 <h3 align="center">A passionate and dedicated Computer Science and Engineering student, eager to contribute my skills to the tech industry.</h3>
-<h5> Website Link : -> https://rajendrachaudhary32.com.np/ </h5>
+<h2> Website Link : -> https://rajendrachaudhary32.com.np/ </h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajendrachy&label=Profile%20views&color=0e75b6&style=flat" alt="rajendrachy" />
 </p>
